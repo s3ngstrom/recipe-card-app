@@ -87,7 +87,6 @@ function RecipeCreate({ createRecipe }) {
                   name="preparation"
                   placeholder="Preparation"
                   onChange={handleChange}
-                  onChange={handleChange}
                   value={formData.preparation}
                 />
               </label>
